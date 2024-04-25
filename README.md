@@ -1,4 +1,4 @@
-![preview_2](https://github.com/Luccas84/YouTube-Clone/assets/167586263/552f4d91-be72-41a0-bf25-c210f73bbac6)
+![preview_4](https://github.com/Luccas84/Landing-page/assets/167586263/fbf8885b-ce66-4ad6-9b76-cdf61bdf639d)
 
 # Land Page Danki Code
 
